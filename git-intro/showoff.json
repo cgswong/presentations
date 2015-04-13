@@ -1,0 +1,21 @@
+{
+  "name": "Git",
+  "description": "Git Introduction",
+  "author": "Stuart Wong",
+  "templates" : {
+      "special" : "simple.tpl"
+  },
+  "pause_msg": "Paused !!!",
+  "sections": [
+    {"section":"getting_started"},
+    {"section":"some_guides"},
+    {"section":"ui_features"},
+    {"section":"sample_workflows"},
+    {"section":"centralized_workflow"},
+    {"section":"feature_workflow"},
+    {"section":"gitflow_workflow"},
+    {"section":"simplified_workflows"},
+    {"section":"git_migration"},
+    {"section":"references"}
+  ]
+}
