@@ -1,6 +1,6 @@
 {
   "name": "Microservices",
-  "description": "Microservices",
+  "description": "Designing Microservices",
   "author": "Stuart Wong",
   "templates" : {
       "special" : "simple.tpl"
