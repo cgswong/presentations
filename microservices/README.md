@@ -6,7 +6,7 @@ it in this directory:
 ```sh
 gem install showoff
 git clone https://github.com/cgswong/presentations.git
-cd presentations/git-intro
+cd presentations/microservices
 showoff serve
 ```
 

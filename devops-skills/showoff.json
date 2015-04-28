@@ -1,0 +1,12 @@
+{
+  "name": "DevOps Skills",
+  "description": "DevOps Skills",
+  "author": "Stuart Wong",
+  "templates" : {
+      "special" : "simple.tpl"
+  },
+  "pause_msg": "Paused !!!",
+  "sections": [
+    {"section":"devops-skills"}
+  ]
+}

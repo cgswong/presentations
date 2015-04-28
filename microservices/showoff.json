@@ -1,0 +1,14 @@
+{
+  "name": "Microservices",
+  "description": "Microservices",
+  "author": "Stuart Wong",
+  "templates" : {
+      "special" : "simple.tpl"
+  },
+  "pause_msg": "Paused !!!",
+  "sections": [
+    {"section":"databases"},
+    {"section":"apps"},
+    {"section":"infrastructure"}
+  ]
+}
