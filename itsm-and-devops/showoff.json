@@ -1,0 +1,13 @@
+{
+  "name": "ITSM and DevOps",
+  "description": "ITSM and DevOps",
+  "author": "Stuart Wong",
+  "templates" : {
+      "special" : "simple.tpl"
+  },
+  "pause_msg": "Paused !!!",
+  "sections": [
+    {"section":"cm-and-sd"},
+    {"section":"two-speeds"}
+  ]
+}
