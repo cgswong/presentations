@@ -7,15 +7,15 @@
   },
   "pause_msg": "Paused !!!",
   "sections": [
-    {"section":"getting_started"},
-    {"section":"some_guides"},
-    {"section":"ui_features"},
-    {"section":"sample_workflows"},
-    {"section":"centralized_workflow"},
-    {"section":"feature_workflow"},
-    {"section":"gitflow_workflow"},
-    {"section":"simplified_workflows"},
-    {"section":"git_migration"},
-    {"section":"references"}
+    {"section":"01-getting_started"},
+    {"section":"02-some_guides"},
+    {"section":"03-ui_features"},
+    {"section":"04-sample_workflows"},
+    {"section":"05-centralized_workflow"},
+    {"section":"06-feature_workflow"},
+    {"section":"07-gitflow_workflow"},
+    {"section":"08-simplified_workflows"},
+    {"section":"09-git_migration"},
+    {"section":"10-references"}
   ]
 }
